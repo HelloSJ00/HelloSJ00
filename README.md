@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - 성균관대 컴퓨터교육과 (2020.03 ~)
 - 성균관대 프로그래밍 학회 CMD (2023.02 ~ 2023.07)
-- 성균관대 제1회 한옥영배 알고리즘 해커톤 수상(GOM SLYAER) 
+- 성균관대 제1회 한옥영배 알고리즘 해커톤 수상(GOM SLAYER) 
