@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skku03062)](https://solved.ac/skku03062)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=skku03062)](https://solved.ac/skku03062)
+  <br>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hellosj2000)](https://solved.ac/hellosj2000)
+  <br>
+
+
 
 - 성균관대 컴퓨터교육과 (2020.03 ~)
